@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
       - 👀 I’m interested in Electronics
       - 🌱 I’m currently learning Programming
       - 💞️ I’m looking to collaborate on Git Hub
-      - 📫 How to reach me by e-mail
-     
+      - 📫 How to reach me by e-mail oskarsoroka47@gmail.com
+    
